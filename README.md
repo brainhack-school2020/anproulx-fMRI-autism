@@ -4,13 +4,13 @@
 
 By Andréanne Proulx
 
-![BrainHack School](bhs2020.png)
+![Brainhacking](bhs2020.png)
 
 ## Summary 
 
 This project's main objective will be to get familiar with the preprocessing of fMRI data, as well as the machine learning and visualisation tools available in Python. For the purpose of this project, I will be using an open source database (UK BIOBANK) as to evaluate the accuracy in decoding the presence of genetic mutations from the functional connectivity profile observed in subjects.
 
-A second objective for this project will be to integrate as much of the tools we were introduced to in the previous week allowing therefore science to be as reproducible as possible. 
+A second objective for this project will be to integrate as much of the tools (BIDS, Github notably) we were introduced to in the previous week allowing therefore science to be as reproducible as possible. 
 
 ## Project definition 
 
@@ -22,12 +22,12 @@ I am a Master's student in Psychology currently enrolled at the University of Mo
 
 This project will rely on the following tools: 
  * Jupyter notebook containing the code and visualisation graphs
+ * Preprocessing of the data: 
  * Libraries: Scikit-learn, statsmodel, nilearn
- * Adding the project to the website relies on github, through pull requests. 
+ * github, through pull requests. 
 
 ### Data 
-
-Ultimately, the project template will be used by all BHS participants. Data on the different projects will be aggregareted on the [following page](https://school.brainhackmtl.org/project). This will serve as an additional example gallery in the years to come for future brainhack school students. Many reports from [BHS 2019](https://github.com/mtl-brainhack-school-2019) already used this template. 
+UK Biobank 
 
 ### Deliverables
 
