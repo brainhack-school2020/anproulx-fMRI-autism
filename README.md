@@ -17,6 +17,7 @@ A second objective for this project will be to integrate as much of the tools (B
 ### Background
 
 *add 1-2 references 
+* Dimensionality reductin*
 
 I am a Master's student in Psychology currently enrolled at the University of Montreal. My main focus is in genomic imagery which consists of relating information about genetics to fonctional and structural brain phenotypes. More specifically, I am interested in functional connectivity measures in the resting-state in carrier populations. 
 
