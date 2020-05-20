@@ -14,9 +14,12 @@ I am a Master's student in Psychology currently enrolled at the University of Mo
 
 ## Project definition 
 
-This project's main objective will be to learn how to use machine learning and visualisation tools available in Python. The scientific purpose will be to evaluate the performance of different classification algorithms (SVM, decision tree, random forest, etc.) at a task which consists of predicting autism diagnosis from the functional connectivity profile observed in subjects. I will also try out different hyperparameters in order to maximise the performance of the classification.   
+This project's main objective will be to learn how to use machine learning and visualisation tools available in Python. I aim to make data visualisation as intuitive as possible. As for the scientific purpose, it will be to evaluate the performance of different classification algorithms (SVM, decision tree, random forest, etc.) at a task which consists of predicting autism diagnosis from the functional connectivity profile observed in subjects. I will also try out different hyperparameters in order to maximise the classification performance.    
 
-A second objective for this project will be to integrate as much of the tools (BIDS, Github notably) we were introduced to in the previous week allowing therefore science to be as reproducible as possible. I aim to make data visualisation as intuitive as possible. 
+A second objective for this project will be to integrate as much of the tools (BIDS, Github notably) we were introduced to in the previous week allowing therefore science to be as reproducible as possible. 
+ 
+*compute canada??
+*unsupervised learning??
 
 ### Tools 
 
