@@ -25,7 +25,7 @@ A second objective for this project will be to integrate as much of the tools (B
 
 This project will rely on the following tools: 
  * Jupyter notebook 
- * Libraries: Scikit-learn, statsmodel, nilearn
+ * Libraries: Scikit-learn, Statsmodel, Nilearn, Seaborn
  * Github
 
 ### Data 
