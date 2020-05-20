@@ -10,7 +10,7 @@ By Andréanne Proulx
 
 ### Background
 
-I am a Master's student in Psychology currently enrolled at the University of Montreal. My main focus is in genomic imagery which consists of relating information about genetics to fonctional and structural brain phenotypes. More specifically, I am interested in functional connectivity measures in the resting-state.
+I am a Master's student in Psychology currently enrolled at the University of Montreal. My main focus is in genomic imagery which consists of relating information about genetics to fonctional and structural brain phenotypes. More specifically, I have been interested in functional connectivity measures in the resting-state in carrier populations. 
 
 ## Project definition 
 
