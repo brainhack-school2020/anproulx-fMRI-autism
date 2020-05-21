@@ -49,6 +49,9 @@ At the end of this project, we will have:
  -Github
  -Compute Canada resources
 
+## Open to colabs?
+Yes!!!!
 ### Results 
 ##### Other projects
 ## Conclusion and acknowledgement
+
