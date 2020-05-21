@@ -43,9 +43,9 @@ At the end of this project, we will have:
  - Presentation slides
  
 ### Tools I will learn during this project
-Matplotlib: Explore different ways of exploring and plotting the data
-Nilearn: Visualize fMRI data in the form of static and interactive images (matrix, brain plotting, etc.) 
-Sklearn: Dimensionality reduction, test-train split, try out different estimator to fit the data, cross-validation, evaluate performance
+-Matplotlib: Explore different ways of exploring and plotting the data
+-Nilearn: Visualize fMRI data in the form of static and interactive images (matrix, brain plotting, etc.) 
+-Sklearn: Dimensionality reduction, test-train split, try out different estimator to fit the data, cross-validation, evaluate performance
 
 
 ### Results 
