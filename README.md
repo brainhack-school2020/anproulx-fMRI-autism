@@ -14,9 +14,9 @@ I am a Master's student in Psychology currently enrolled at the University of Mo
 
 ## Project definition 
 
-![]()
-
 This project's main objective will be to learn how to use machine learning and visualisation tools available in Python. I aim to make data visualisation as intuitive as possible. As for the scientific purpose, it will be to evaluate the performance of different classification linear and non-linear algorithms (SVM, logistic regression, decision tree, random forest, etc.) at a task which consists of predicting autism diagnosis from the functional connectivity profile observed in subjects. I will also try out cross validation and different hyperparameters in order to maximise the classification performance.    
+
+![chart (2)](https://user-images.githubusercontent.com/65092948/82572545-7f161a80-9b52-11ea-9380-640eca9851bd.jpg)
 
 *what regions that contribute the most to this prediction
 
