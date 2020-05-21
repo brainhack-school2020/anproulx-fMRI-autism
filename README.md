@@ -18,11 +18,9 @@ This project's main objective will be to learn how to use machine learning and v
 
 ![chart (2)](https://user-images.githubusercontent.com/65092948/82572545-7f161a80-9b52-11ea-9380-640eca9851bd.jpg)
 
-*what regions that contribute the most to this prediction
-
 https://hal.inria.fr/hal-01824205v3/document
 
-A second objective for this project will be to integrate as much of the tools (BIDS, Github notably) we were introduced to in the previous week allowing therefore science to be as reproducible as possible. 
+A second objective for this project will be to integrate as much of the tools (Github notably) we were introduced to in the previous week allowing therefore science to be as reproducible as possible. 
 
 ### Tools 
 
