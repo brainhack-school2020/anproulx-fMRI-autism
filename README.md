@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# Can autism be predicted from fMRI data?
+# How well can autism be predicted from fMRI data?
 
 By Andréanne Proulx
 
