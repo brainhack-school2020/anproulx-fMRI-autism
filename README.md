@@ -46,8 +46,8 @@ At the end of this project, we will have:
  - Matplotlib: Explore different ways of exploring and plotting the data
  - Nilearn: Visualize fMRI data in the form of static and interactive images (matrix, brain plotting, etc.)
  - Sklearn: Dimensionality reduction, test-train split, try out different estimator to fit the data, cross-validation, evaluate performance
- -Github
- -Compute Canada resources
+ - Github
+ - Compute Canada resources
 
 ## Open to colabs?
 Yes!!!!
