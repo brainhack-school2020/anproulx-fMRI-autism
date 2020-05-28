@@ -25,10 +25,9 @@ A second objective for this project will be to integrate as much of the tools (G
 ### Tools 
 
 This project will rely on the following tools: 
- * Jupyter notebook 
- * Libraries: Scikit-learn, Nilearn, Seaborn, matplotlib
+ * Jupyter Notebook 
+ * Libraries: Scikit-learn, Nilearn, Seaborn, matplotlib, Pyplot
  * Github 
- * Compute Canada
 
 ### Data 
 For the purpose of this project, I will be using an the preprocessed open source database ABIDE (see Preprocessed Connectomes Project), available through Nilearn. This data contains structural, functional and phenotypic data of 539 individuals with autism and 573 typical controls.  
@@ -45,12 +44,38 @@ At the end of this project, we will have:
 ### Tools I will learn during this project
  - Matplotlib: Explore different ways of exploring and plotting the data
  - Nilearn: Visualize fMRI data in the form of static and interactive images (matrix, brain plotting, etc.)
- - Sklearn: Dimensionality reduction, test-train split, try out different estimator to fit the data, cross-validation, evaluate performance
+ - Sklearn: Dimensionality reduction, test-train split, try out different estimator to fit the data, cross-validation methods, evaluate performance
  - Github
- - Compute Canada resources
+ 
+### Progress
+Visualization
+ - Static: Matplolib, Pandas
+ - Interactive: Plotly
+ 
+SVM classification
+1. Model selection 
+ - Cross validation curves
+ - Hyperparameter: "C", "GAMMA"
+2. Model validation
+ - Train-test split
+ - k-folds
+ - Leave one-out
+
+
+KNN classification
+1. Model selection 
+ - Cross validation curves
+ - Hyperparameter: "metric distance", "N neigbors"
+2. Model validation
+ - Train-test split
+ - k-folds
+ - Leave one-out
+
 
 ## Open to colabs?
-Yes!!!!
+Part of TEAM ABIDE. See team repo: 
+
+
 ### Results 
 ##### Other projects
 ## Conclusion and acknowledgement
