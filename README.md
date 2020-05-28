@@ -40,6 +40,7 @@ At the end of this project, we will have:
  - Readme file 
  - Python script
  - Presentation slides
+ - Interactive plot (Week 3)
  
 ### Tools I will learn during this project
  - Matplotlib: Explore different ways of exploring and plotting the data
@@ -48,7 +49,7 @@ At the end of this project, we will have:
  - Github
  
 ### Progress
-Visualization
+Visualizations
  - Static: Matplolib, Pandas
  - Interactive: Plotly
  
@@ -73,8 +74,10 @@ KNN classification
 
 
 ## Open to colabs?
-Part of TEAM ABIDE. See team repo: 
+Part of TEAM ABIDE. See team repo: https://github.com/orgs/brainhack-school2020/teams/abide-team
 
+### Deliverable week 3
+link: 
 
 ### Results 
 ##### Other projects
