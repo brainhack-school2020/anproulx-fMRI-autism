@@ -77,8 +77,8 @@ KNN classification
 Part of TEAM ABIDE. See team repo: https://github.com/orgs/brainhack-school2020/teams/abide-team
 
 ### Deliverable week 3
-link: 
-
+link: [Age distribution]()
+link: [Influence of hyperparameter values for SVM estimator]()
 ### Results 
 ##### Other projects
 ## Conclusion and acknowledgement
