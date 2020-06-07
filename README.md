@@ -78,7 +78,7 @@ Part of TEAM ABIDE. See team repo: https://github.com/orgs/brainhack-school2020/
 
 ### Deliverable week 3
 link: [Age distribution](https://anproulx.github.io/publication_website/)
-link: [Influence of hyperparameter values for SVM estimator](https://anproulx.github.io/cross_validation_plots/)
+link: [Influence of hyperparameter values gamma and C for SVM estimator](https://anproulx.github.io/cross_validation_plots/)
 ### Results 
 ##### Other projects
 ## Conclusion and acknowledgement
