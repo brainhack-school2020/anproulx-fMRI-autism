@@ -54,7 +54,7 @@ Part of the ABIDE TEAM. See team repo: https://github.com/orgs/brainhack-school2
  - link: [Influence of hyperparameter values gamma and C for SVM estimator](https://anproulx.github.io/cross_validation_plots/)
 
 ### Results
-![Results](results_cv.png)
+![Results](result_cv.png)
 
 ##### Other projects
 ## Conclusion and acknowledgement
