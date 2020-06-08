@@ -45,10 +45,16 @@ For the purpose of this project, I will be using an the preprocessed open source
  
 ### Tools I will learn during this project
 
- - Matplotlib & Plotly: Explore different ways of exploring and plotting the data
- - Nilearn: Visualize fMRI data in the form of static and interactive images (matrix, brain plotting, etc.)
- - Sklearn: Dimensionality reduction, test-train split, try out different estimator to fit the data, cross-validation methods, evaluate performance
- - Github
+ - Python librairies: Nilearn (specialized library for neuroimaging), Matplotlib (static plotting),  Plotly (interactive plotting), Sklearn (Machine learning)
+ -Jupyter Notebook
+ - Git & Github : Track files and building a repository
+ 
+### Tools I ended up learning during this project
+- Python librairies: Nilearn, Matplotlib,  Plotly, Sklearn (dimensionality reduction, test-train split, gridsearch, cross-validation methods, evaluate performance)
+- Jupyter Notebook
+- Github: Push, pull, fork, merge, pull requests, issues, etc. Also learned team management and organization.
+- Git: Track Jupyter Notebook
+- Venv: Make requirement.txt file
 
 ## Collabs
 Part of the ABIDE TEAM. See team repo: https://github.com/orgs/brainhack-school2020/teams/abide-team
