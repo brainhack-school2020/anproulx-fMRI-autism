@@ -45,7 +45,7 @@ For the purpose of this project, I will be using an the preprocessed open source
 ### Tools I will learn during this project
 
  - Python librairies: Nilearn (specialized library for neuroimaging), Matplotlib (static plotting),  Plotly (interactive plotting), Sklearn (Machine learning)
- -Jupyter Notebook
+ - Jupyter Notebook
  - Git & Github : Track files and building a repository
  
 ### Tools I ended up learning during this project
