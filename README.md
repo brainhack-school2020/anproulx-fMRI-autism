@@ -17,6 +17,7 @@ I am a Master's student in Psychology currently enrolled at the University of Mo
 This project's main objective will be to learn how to use machine learning and visualisation tools available in Python. As for the scientific purpose, it will be to evaluate the performance of different linear and non-linear classification algorithms (SVM, decision tree, random forest, etc.) at a task which consists of predicting autism diagnosis from the functional connectivity profile observed in subjects. I will also try out cross validation and different hyperparameters in order to maximise the classification performance.    
 
 ![chart (2)](https://user-images.githubusercontent.com/65092948/82572545-7f161a80-9b52-11ea-9380-640eca9851bd.jpg)
+![Data preparation](42.png)
 
 https://hal.inria.fr/hal-01824205v3/document
 
@@ -46,16 +47,16 @@ For the purpose of this project, I will be using an the preprocessed open source
  - Sklearn: Dimensionality reduction, test-train split, try out different estimator to fit the data, cross-validation methods, evaluate performance
  - Github
 
-## Open to colabs?
+## Collabs
 Part of the ABIDE TEAM. See team repo: https://github.com/orgs/brainhack-school2020/teams/abide-team
-
-### Deliverable week 3
- - link: [Age distribution](https://anproulx.github.io/publication_website/)
- - link: [Influence of hyperparameter values gamma and C for SVM estimator](https://anproulx.github.io/cross_validation_plots/)
 
 ### Results
 ![Results](result_cv.png)
 
-##### Other projects
+### Deliverable week 3
+ - link: [Age distribution](https://anproulx.github.io/publication_website/)
+ - link: [Influence of hyperparameter values gamma and C for SVM estimator](https://anproulx.github.io/cross_validation_plots/)
+ 
 ## Conclusion and acknowledgement
+
 
