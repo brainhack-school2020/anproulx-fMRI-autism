@@ -12,7 +12,7 @@ By Andréanne Proulx
 
 I am a Master's student in Psychology currently enrolled at the University of Montreal. My main focus is in genomic imagery which consists of relating information about genetics to fonctional and structural brain phenotypes. More specifically, I have been interested in functional connectivity measures in the resting-state in carrier populations. 
 
-## Project definition 
+### Project definition 
 
 This project's main objective will be to learn how to use machine learning and visualisation tools available in Python. As for the scientific purpose, it will be to evaluate the performance of different linear and non-linear classification algorithms (SVM, decision tree, random forest, etc.) at a task which consists of predicting autism diagnosis from the functional connectivity profile observed in subjects. I will also try out cross validation and different hyperparameters in order to maximise the classification performance.    
 
@@ -34,7 +34,7 @@ This project will rely on the following tools:
 For the purpose of this project, I will be using an the preprocessed open source database ABIDE (see Preprocessed Connectomes Project), available through Nilearn. This data contains structural, functional and phenotypic data of 539 individuals with autism and 573 typical controls.  
 
 ### Deliverables
- - A jupyter notebook containing the code and all visualisation graphs
+ - A jupyter notebook containing the code and all visualization graphs
  - Requirements.txt
  - Readme file 
  - Python script
@@ -57,6 +57,30 @@ Part of the ABIDE TEAM. See team repo: https://github.com/orgs/brainhack-school2
  - link: [Age distribution](https://anproulx.github.io/publication_website/)
  - link: [Influence of hyperparameter values gamma and C for SVM estimator](https://anproulx.github.io/cross_validation_plots/)
  
+### Resources
+1. Choosing appropriate estimators with scikit-learn https://scikit-learn.org/stable/tutorial/machine_learning_map/
+2. Benchmarking functional connectome-based predictive models for resting-state fMRI (for classification estimator inspiration) https://hal.inria.fr/hal-01824205
+3. Getting the data using nilearn fetch https://nilearn.github.io/modules/generated/nilearn.datasets.fetch_abide_pcp.html
+4. Python Data Science Handbook GitHub and website https://github.com/jakevdp/PythonDataScienceHandbook
+
 ## Conclusion and acknowledgement
+A special thank you to all BrainHack Organizers for making this event an amazing learning experience!
+
+Pierre Bellec (Mentor)
+Désirée Lussier-Lévesque (Mentor)
+Alexa Pichet-Binette (Mentor)
+Sebastian Urchs (Mentor)
+Jean-Baptiste Poline
+Tristan Glatard
+Benjamin de Leener
+Elizabeth DuPre
+Ross Markello
+Peer Herholz
+Samuel Guay
+Valerie Hayot-Sasson
+Karim Jerbi
+Greg Kiar
+Jake Vogel
+Agâh Karakuzu
 
 
