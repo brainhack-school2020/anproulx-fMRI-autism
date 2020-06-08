@@ -20,8 +20,8 @@ This project's main objective will be to learn machine learning and visualisatio
 
 ![chart (2)](https://user-images.githubusercontent.com/65092948/82572545-7f161a80-9b52-11ea-9380-640eca9851bd.jpg)
 ![Data preparation](42.png)
-
-https://hal.inria.fr/hal-01824205v3/document
+![Machine learning](44.png)
+![Machine learning](46.png)
 
 ### Tools 
 
