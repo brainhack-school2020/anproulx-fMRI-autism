@@ -12,7 +12,7 @@ By Andréanne Proulx
 
 I am a Master's student in Psychology currently enrolled at the University of Montreal. My main focus is in genomic imagery which consists of investigating the effect of genetic mutations on fonctional and structural brain phenotypes. More specifically, I have been interested in resing-state functional connectivity measures in carrier populations. 
 
-![Me](https://github.com/anproulx/fMRI-autism/images/presentation.png?raw=true)
+![Me](https://github.com/brainhack-school2020/anproulx-fMRI-autism/tree/master/images/backgroung.png)
 
 ### Project definition 
 
