@@ -59,7 +59,7 @@ For the purpose of this project, I will be using an the preprocessed open source
 Part of the ABIDE TEAM. See team repo: https://github.com/orgs/brainhack-school2020/teams/abide-team
 
 ### Results
-![Results](result_cv.png)
+![Results](https://user-images.githubusercontent.com/65092948/84206294-ddad2500-aa7c-11ea-83c6-d99613dc0675.png)
 
 ### Deliverable week 3
  - link: [Age distribution](https://anproulx.github.io/publication_website/)
@@ -74,21 +74,21 @@ Part of the ABIDE TEAM. See team repo: https://github.com/orgs/brainhack-school2
 ## Conclusion and acknowledgement
 A special thank you to all the 2020 BrainHack School Organizers for making this event an amazing learning experience!
 
-Pierre Bellec (Mentor)
-Désirée Lussier-Lévesque (Mentor)
-Alexa Pichet-Binette (Mentor)
-Sebastian Urchs (Mentor)
-Jean-Baptiste Poline
-Tristan Glatard
-Benjamin de Leener
-Elizabeth DuPre
-Ross Markello
-Peer Herholz
-Samuel Guay
-Valerie Hayot-Sasson
-Karim Jerbi
-Greg Kiar
-Jake Vogel
-Agâh Karakuzu
+ - Pierre Bellec (Mentor)
+ - Désirée Lussier-Lévesque (Mentor)
+ - Alexa Pichet-Binette (Mentor)
+ - Sebastian Urchs (Mentor)
+ - Jean-Baptiste Poline
+ - Tristan Glatard
+ - Benjamin de Leener
+ - Elizabeth DuPre
+ - Ross Markello
+ - Peer Herholz
+ - Samuel Guay
+ - Valerie Hayot-Sasson
+ - Karim Jerbi
+ - Greg Kiar
+ - Jake Vogel
+ - Agâh Karakuzu
 
 
