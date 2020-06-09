@@ -66,7 +66,8 @@ Part of the ABIDE TEAM. See team repository at: https://github.com/orgs/brainhac
  - link: [Influence of hyperparameter values gamma and C for SVM estimator](https://anproulx.github.io/cross_validation_plots/)
  
 ### Information about this repository
-This repository contains the two Jupyter Notebooks:  the first notebook contains the code related to the data exploration and visualization, whereas the second notebook contains the code for the machine learning part of this project. 
+This repository contains the two Jupyter Notebooks:  the first notebook contains the code related to the data exploration and visualization, whereas the second notebook contains the code for the machine learning part of this project. To install all necessary requirements to rerun this analysis, see the requirements.txt file included in the repository.
+
 
 ### Resources
 1. Choosing appropriate estimators with scikit-learn https://scikit-learn.org/stable/tutorial/machine_learning_map/
