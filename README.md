@@ -56,7 +56,7 @@ For the purpose of this project, I will be using an the preprocessed open source
 - Venv: Make requirement.txt file
 
 ## Collabs
-Part of the ABIDE TEAM. See team repo: https://github.com/orgs/brainhack-school2020/teams/abide-team
+Part of the ABIDE TEAM. See team repository at: https://github.com/orgs/brainhack-school2020/teams/abide-team. 
 
 ### Results
 ![Results](https://user-images.githubusercontent.com/65092948/84206294-ddad2500-aa7c-11ea-83c6-d99613dc0675.png)
@@ -65,6 +65,9 @@ Part of the ABIDE TEAM. See team repo: https://github.com/orgs/brainhack-school2
  - link: [Age distribution](https://anproulx.github.io/publication_website/)
  - link: [Influence of hyperparameter values gamma and C for SVM estimator](https://anproulx.github.io/cross_validation_plots/)
  
+### Information about this repository
+This repository contains the two Jupyter Notebooks:  the first notebook contains the code related to the data exploration and visualization, whereas the second notebook contains the code for the machine learning part of this project. 
+
 ### Resources
 1. Choosing appropriate estimators with scikit-learn https://scikit-learn.org/stable/tutorial/machine_learning_map/
 2. Benchmarking functional connectome-based predictive models for resting-state fMRI (for classification estimator inspiration) https://hal.inria.fr/hal-01824205
