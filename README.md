@@ -12,15 +12,15 @@ By Andréanne Proulx
 
 I am a Master's student in Psychology currently enrolled at the University of Montreal. My main focus is in genomic imagery which consists of investigating the effect of genetic mutations on fonctional and structural brain phenotypes. More specifically, I have been interested in resing-state functional connectivity measures in carrier populations. 
 
-![Me](https://github.com/brainhack-school2020/anproulx-fMRI-autism/tree/master/images/backgroung.png)
+![Me](https://user-images.githubusercontent.com/65092948/84206109-7d1de800-aa7c-11ea-838e-1806e16735e3.png)
 
 ### Project definition 
 
 This project's main objective will be to learn machine learning and visualisation tools available in Python. As for the scientific purpose, it will be to evaluate the performance of different linear and non-linear classification algorithms (SVM, decision tree, random forest, etc.) at a task which consists of predicting autism diagnosis from the functional connectivity data. I will also try out cross validation and different hyperparameters in order to maximise the classification performance. A second objective for this project will be to integrate as much of the tools (Github notably) we were introduced to in the previous week allowing therefore science to be as reproducible as possible. 
 
-![Data preparation](data preparation.png)
-![Machine learning](44.png)
-![Machine learning](46.png)
+![Data preparation](https://user-images.githubusercontent.com/65092948/84206112-7e4f1500-aa7c-11ea-8e5f-5d34d9130db0.png)
+![Machine learning](https://user-images.githubusercontent.com/65092948/84206114-7e4f1500-aa7c-11ea-8f64-f4a6e2983b68.png)
+![Machine learning](https://user-images.githubusercontent.com/65092948/84206115-7ee7ab80-aa7c-11ea-8744-831d7c1704fe.png)
 
 ### Tools 
 
