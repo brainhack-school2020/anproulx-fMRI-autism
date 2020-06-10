@@ -35,12 +35,12 @@ For the purpose of this project, I will be using an the preprocessed open source
 
 ### Deliverables
 
- - A jupyter notebook containing the code and all visualization graphs
+ - Two jupyter notebook containing the code for the visualization and the machine learning
  - Requirements.txt
  - Readme file 
- - Python script
- - Presentation slides
- - Interactive plot (Week 3)
+ - Python script (team repository)
+ - Presentation slides (team repository)
+ - Interactive plot (README file)
  
 ### Tools I will learn during this project
 
@@ -67,7 +67,7 @@ Visualizations: https://plotly.com/~anproulx/2/data-visualization/
  - link: [Influence of hyperparameter values gamma and C for SVM estimator](https://anproulx.github.io/cross_validation_plots/)
  
 ### Information about this repository
-This repository contains the two Jupyter Notebooks:  the first notebook contains the code related to the data exploration and visualization, whereas the second notebook contains the code for the machine learning part of this project. To install all necessary requirements to rerun this analysis, see the requirements.txt file included in the repository.
+This repository contains the two Jupyter Notebooks:  the first notebook contains the code related to the data exploration and visualization (and week 3 deliverable), whereas the second notebook contains the code for the machine learning part of this project. To install all necessary requirements to rerun this analysis, see the requirements.txt file included in the repository.
 
 
 ### Resources
