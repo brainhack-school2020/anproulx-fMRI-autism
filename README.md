@@ -59,6 +59,7 @@ For the purpose of this project, I will be using an the preprocessed open source
 Part of the ABIDE TEAM. See team repository at: https://github.com/orgs/brainhack-school2020/teams/abide-team. 
 
 ### Results
+Visualizations: https://plotly.com/~anproulx/2/data-visualization/
 ![Results](https://user-images.githubusercontent.com/65092948/84206294-ddad2500-aa7c-11ea-83c6-d99613dc0675.png)
 
 ### Deliverable week 3
